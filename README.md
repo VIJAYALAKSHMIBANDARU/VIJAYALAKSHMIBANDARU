@@ -1,12 +1,12 @@
 ## 🚀 About Me:
 
-Hi there! I'm Vijayalakshmi  
+👋Hi there! I'm Vijayalakshmi  
 I'm a passionate and curious Computer Science student on a mission to learn and build meaningful tech that makes a difference.  
 
 🌱 **Currently learning:** Full-Stack Development | Data Analytics | Japanese (JLPT N5)  
 💻 **Interests:** Software Development | Data Science | Cloud Basics | Big Data Projects  
 🎯 **Goal:** To land a dream role where I can blend code with creativity and purpose  
-🧠 **Fun Fact:** I’m drawn to the harmony between code and language—where logic meets creativity, and every detail tells a quiet story ✨  
+🌸  **Fun Fact:** I’m drawn to the harmony between code and language—where logic meets creativity, and every detail tells a quiet story  
 📚 **Always learning. Always evolving.**  
 ✨ **Motto:** *“My journey is just beginning, but I’m here to grow, share, and create meaningful things.”*
 
